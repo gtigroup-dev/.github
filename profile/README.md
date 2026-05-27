@@ -108,11 +108,6 @@ You can follow GTI through our public channels and participate through projects,
 * [LinkedIn](https://www.linkedin.com/company/global-technology-association-of-infocomm/)
 * [Join us](https://www.gtigroup.org/Uploads/20250402/index.html)
 * [GTI members](https://gtigroup.org/omembership.html)
-* Visit our GitHub repositories
-* Follow our LinkedIn updates
-* Join technical and industry discussions
-* Explore opportunities for joint innovation
-* Contribute to open collaboration projects
 
 ---
 
